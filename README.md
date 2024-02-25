@@ -1,25 +1,25 @@
-# arth-math
+## arth-math
 npm package install
 ```
 npm i arth-math
 ```
-# For addtion
+## For addtion
 ```
 addTwo(parameter_1,parameter_2);
 ```
-# For subtraction
+## For subtraction
 ```
 subTwo(parameter_1,parameter_2);
 ```
-# For multiplication
+## For multiplication
 ```
 mulTwo(parameter_1,parameter_2);
 ```
-# For divide
+## For divide
 ```
 divTwo(parameter_1,parameter_2);
 ```
-# For remainder
+## For remainder
 ```
 remTwo(parameter_1,parameter_2);
 ```
