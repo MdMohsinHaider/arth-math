@@ -1,0 +1,23 @@
+{
+  "name": "arth-math",
+  "version": "1.0.0",
+  "description": "simple arth-mathatic type ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdMohsinHaider/arth-math.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Md Mohsin Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdMohsinHaider/arth-math/issues"
+  },
+  "homepage": "https://github.com/MdMohsinHaider/arth-math#readme"
+}
